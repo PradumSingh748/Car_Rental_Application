@@ -8,4 +8,29 @@
 
 # Screenshots
 1. Welcome Screen
-   ![Local Image](Screenshots/Screenshot1.png)
+   
+   ![Local Image](Screenshots/Screenshot_1.png)
+
+2. Login Options
+
+   ![Local Image](Screenshots/Screenshot_2.png)
+
+3. Admin Options
+
+   ![Local Image](Screenshots/Screenshot_3.png)
+
+4. Employee Details
+
+   ![Local Image](Screenshots/Screenshot_4.png)
+
+5. Employee Login
+
+   ![Local Image](Screenshots/Screenshot_5.png)
+
+6. Employee Options
+
+   ![Local Image](Screenshots/Screenshot_6.png)
+
+7. Car Details
+
+      ![Local Image](Screenshots/Screenshot_7.png)
